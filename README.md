@@ -1,6 +1,6 @@
 # Timetable-import
 
-NOTICE: python 2.7
+NOTICE: The program runs in python 2.7, actually you can modify it in order to run in python 3.x. It is not difficult.
 
 ---
 ## How to use it
