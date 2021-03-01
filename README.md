@@ -1,4 +1,7 @@
 # Timetable-import
+
+NOTICE: python 2.7
+
 ---
 ## How to use it
 1. Enter your information of the classes into the file "classinfo.xlsx"
